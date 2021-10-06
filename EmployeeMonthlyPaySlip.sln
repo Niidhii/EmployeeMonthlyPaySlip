@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeMonthlyPaySlip", "EmployeeMonthlyPaySlip.csproj", "{0E1F90C7-D0B4-49C5-97F6-760229C4046F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeMonthlyPaySlip.Tests", "..\EmployeeMonthlyPaySlip.Tests\EmployeeMonthlyPaySlip.Tests.csproj", "{9F4CAF49-211D-4DCC-A4A9-9026A9DCCFCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E1F90C7-D0B4-49C5-97F6-760229C4046F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1F90C7-D0B4-49C5-97F6-760229C4046F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1F90C7-D0B4-49C5-97F6-760229C4046F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1F90C7-D0B4-49C5-97F6-760229C4046F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F4CAF49-211D-4DCC-A4A9-9026A9DCCFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4CAF49-211D-4DCC-A4A9-9026A9DCCFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4CAF49-211D-4DCC-A4A9-9026A9DCCFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4CAF49-211D-4DCC-A4A9-9026A9DCCFCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F05DCF30-F770-431A-948F-B74D8252A075}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EmployeeMonthlyPaySlip.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UsagePattern" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">
+                  This application outputs a monthly pay slip for a given employee provided their annual salary.
+
+Usage:
+    EmployeeMonthyPayslip.exe  GenerateMonthlyPayslip "EmployeeName" AnnualSalary
+
+For example - EmployeeMonthyPayslip.exe GenerateMonthlyPayslip "TestUser" 60000
+
+Where 
+    EmployeeName      : Please provide Employee Name
+    AnnualSalary      : Please provide Employee's Annual Salary
+
+Example Output: 
+
+Monthly Payslip for: "TestUser"
+Gross Monthly Income: $5000
+Monthly Income Tax: $500
+Net Monthly Income: $4500
+                </Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
